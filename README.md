@@ -11,3 +11,6 @@ Two robots were modeled. These are simple but typical delivery type robots. The 
 
 ![Rollerball bot](</pngs.d/Ballbot.png>)
 
+The second robot is a tracotor-trailer configuration. The robot is powered by two wheels up front on a base to which the cargo platform attaches. There is a revolute joint between the wheels base and platform. The platform has two fixed trailing wheels:
+
+![Simulation environment](</pngs.d/T2.png>)
