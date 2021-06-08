@@ -9,5 +9,5 @@ There is an enclosed space around which robots can travel in a nominal loop. For
 
 Two robots were modeled. These are simple but typical delivery type robots. The first is the trailing ball bot created in the Gazebo tutorial on robot modeling:
 
-![Rollerball bot](<image source="/pngs.d/Ballbot.png" width=300>)
+![Rollerball bot]<image source="/pngs.d/Ballbot.png" width=300>
 
