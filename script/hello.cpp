@@ -6,12 +6,12 @@ namespace gazebo
   {
   public: WorldPluginMyRobot() : WorldPlugin()
     {
-      printf("Hello World!\n");
+      printf("\nHello and welcome to KtGunn's world!\n");
     }
-
+    
   public: void Load(physics::WorldPtr _world, sdf::ElementPtr _sdf)
     {
-            }
+    }
   };
   GZ_REGISTER_WORLD_PLUGIN(WorldPluginMyRobot)
 }
