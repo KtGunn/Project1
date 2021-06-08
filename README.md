@@ -16,6 +16,6 @@ The second robot is a tracotor-trailer configuration. The robot is powered by tw
 ![Simulation environment](</pngs.d/T2.png>)
 
 ## Conclusion
-The final test of this project is that the primitive plug-in prints "Hello World!" to the console when gazebo is started up with the simulation world described above:
+The final test of this project is that the primitive plug-in prints "Hello World!" to the console when gazebo is started up with the simulation world described above. The message should identify the author:
 
 ![Hello World](</pngs.d/Hello_World.png>)
