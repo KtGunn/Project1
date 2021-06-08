@@ -3,4 +3,4 @@ This project creates an environment ("world") for simlution in Gazebo. The envir
 
 The screen shot below show the simulation environment:
 
-![Simulation environment] (</pngs.d/Project1World.png>)
+![Simulation environment] (</Project1/pngs.d/Project1World.png>)
